@@ -1,0 +1,10 @@
+.left-nav-bar {
+  height: 80vh;
+  width: 23vw;
+}
+
+.active-tab {
+  background-color: #0b69ff;
+  color: red;
+  border-radius: 5px;
+}
