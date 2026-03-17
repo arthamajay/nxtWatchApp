@@ -1,6 +1,6 @@
 # Nxt Watch App
 
-**Live Demo:** [https://arthamnxtrendz.ccbp.tech](https://arthamnxtwatch.ccbp.tech/)  
+**Live Demo:** [https://arthamnxtwatch.ccbp.tech/](https://arthamnxtwatch.ccbp.tech/)  
 
 ---
 
